@@ -31,7 +31,7 @@ print("{:.2f}".format(886/3))
 
 print("{0:.{1}f}".format(886/3, 3))
 #here it is mentioned that {0:.{1}f} : here 0 is replaced by the first value in format() field
-#and {1} is replaced by the following value
+#and {1} is replaced by the following value to round that many places 
 
 
 
