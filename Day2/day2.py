@@ -23,7 +23,7 @@ print(8//3)
 score = 100
 height = 1.8
 isWinning = True
-# print(f"your score is {score}, your height is {height},\nare you winning?: {isWinning}")
+print(f"your score is {score}, your height is {height},\nare you winning?: {isWinning}")
 
 #format function
 print("{:.2f}".format(886/3))
