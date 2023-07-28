@@ -1,4 +1,8 @@
 import random
+#random.choice()
+#random.randint()
+#random.random()
+#random.shuffle()
 #loops 
 
 
